@@ -1,0 +1,9 @@
+cd
+ls
+*not sure*
+touch cookies.txt
+*not sure*
+rm
+*not sure*
+*not sure*
+*not sure*
