@@ -1,3 +1,6 @@
+# I really don't know python very well...
+# I just finished problem 10 and i'm just now realizing that i can do this in swift so I'm going to do problem 11 onward in swift
+
 '''
  fizzbuzz( start , end ):
    for number in end - start:
