@@ -1,0 +1,2 @@
+Problem 5:
+An algorithm is a task that is run by comparing the input data to a set of rules.
